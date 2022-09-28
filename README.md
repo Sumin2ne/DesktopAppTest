@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Learing github Desktop
 
 This is makes things so much easier!
@@ -19,4 +20,4 @@ TODO: Write credits
 
 ## License
 
-MIL
+MIL  s
