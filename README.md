@@ -1,6 +1,6 @@
 ![alt text](bennerimage.jpg "Logo Title Text 1")
 
-## Learing github Desktop
+## Learing Easier Way 
 
 This is makes things so much easier!
 
@@ -14,7 +14,7 @@ This is makes things so much easier!
 
 ## Credits
 
-Sumin Lee
+Sumin
 
 ## License
 
