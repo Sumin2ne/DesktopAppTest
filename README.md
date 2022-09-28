@@ -1,8 +1,7 @@
-<<<<<<< Updated upstream
+
 ## Learing github Desktop
 
 This is makes things so much easier!
-
 
 
 ## Contributing
@@ -20,4 +19,4 @@ TODO: Write credits
 
 ## License
 
-MIL  s
+MIL 
