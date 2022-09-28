@@ -14,7 +14,7 @@ This is makes things so much easier!
 
 ## Credits
 
-Sumin
+Sumin Lee
 
 ## License
 
